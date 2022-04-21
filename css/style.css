@@ -7,3 +7,9 @@
 .interno{
     padding: 15px;
 }
+
+.space {
+    /* debug */
+    border: 1px solid red;
+    height: 20px;
+}
