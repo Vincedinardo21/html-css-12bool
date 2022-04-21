@@ -110,6 +110,11 @@
     margin-left: calc((100% / 12) * 6);
 }
 
+/* Bonus */
+.col-offset-right-6 {
+    margin-right: calc((100% / 12) * 6);
+}
+
 .col-offset-7 {
     margin-left: calc((100% / 12) * 7);
 }
