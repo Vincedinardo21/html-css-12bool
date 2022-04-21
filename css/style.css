@@ -1,5 +1,9 @@
 [class*="col-"] {
     background-color: aqua;
     border: 1px solid black;
-    height: 40px;
+    min-height: 40px;
+}
+
+.interno{
+    padding: 15px;
 }
