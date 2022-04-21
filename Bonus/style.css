@@ -1,0 +1,33 @@
+[class*="col-"] {
+    background-color: rgb(0, 108, 250);
+    border: 1px solid white;
+    min-height: 40px;
+}
+
+.interno{
+    padding: 15px;
+}
+
+.space {
+    height: 20px;
+    /* debug */
+    /* border: 1px solid red; */  
+}
+
+.interno .col-2, .interno .col-8, .interno .col-6 {
+    background-color: rgb(0, 225, 101);
+    border: 1px solid rgb(0, 108, 250);
+}
+
+/* Bonus */
+.jcont-around, .jcont-bet {
+    display: flex;
+}
+
+.jcont-around {
+    justify-content: space-around;
+}
+
+.jcont-bet {
+    justify-content: space-between;
+}
